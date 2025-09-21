@@ -1,0 +1,5 @@
+{
+  "name": "Home Plan Modeler",
+  "description": "An interactive tool to visually design your home layout. Click to create rooms, drag to move them, and use the inspector to precisely update their names and dimensions.",
+  "requestFramePermissions": []
+}
